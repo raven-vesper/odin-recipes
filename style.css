@@ -32,3 +32,9 @@ img {
     background-color: black;
     color: white;
 }
+
+.ingredients,
+.steps {
+    color: white;
+    background-color: red;
+}
