@@ -2,16 +2,29 @@
     font-family: Georgia;
 }
 
-h1 {
+.index-heading {
     text-align: center;
     font-weight: bolder;
     background-color: black;
     color: antiquewhite;
 }
 
-.unordered-list {
+.index-unordered-list {
     text-align: center;
     font-weight: bold;
     background-color: red;
 }
+
+h1.recipe-title {
+    text-align: center;
+    font-weight: bolder;
+    background-color: black;
+    color:antiquewhite;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
 
